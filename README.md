@@ -1,0 +1,1 @@
+Online Code Submission & Evaluation System is a Java-based application using JDBC and MySQL that allows users to register, log in, view coding problems, submit code, and receive pass/fail results. It evaluates user output against expected output and stores submission history, ensuring efficient and structured coding practice.
